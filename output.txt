@@ -1,0 +1,19 @@
+Please choose a random number between 1 to 100.
+Enter your guess 30
+Too high
+Enter your guess 21
+Too high
+Enter your guess 1
+Too low
+Enter your guess 10
+Too low
+Enter your guess 14
+Too low
+Enter your guess 16
+Too low
+Enter your guess 17
+Too low
+Enter your guess 18
+You guessed the correct number.
+
+=== Code Execution Successful ===
